@@ -1,0 +1,5 @@
+\stream
+*.pdb
+*.asv
+test*
+memo.txt
